@@ -1,4 +1,4 @@
-# Git/GitHub Introduction (1-hour Session)
+# Git/GitHub Introduction (2-hour Session)
 
 ## Introduction
 - Version control fundamentals and importance
